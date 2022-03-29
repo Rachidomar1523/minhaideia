@@ -3,7 +3,7 @@
 
 
 
-@media screen and (min-width: 630px) and (max-width: 830px){
+@media screen and (min-width: 0px){
 
     header#principal{
         height: 70vw;
@@ -154,7 +154,7 @@
     }
 }
 
-@media  screen and (min-width: 831px) {
+/*@media  screen and (min-width: 831px) {
 
 
 
@@ -264,3 +264,4 @@
         left: 50%;
     }
 }
+*/
