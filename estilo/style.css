@@ -1,0 +1,46 @@
+@charcet-utf-8;
+
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+body{
+    margin: 0px;
+    padding: 0%;
+    }
+
+
+main, html{
+    margin: 0%;
+    padding: 0%;
+}
+
+section#sesao1 > article p.primeiro{
+    text-indent: 10px;
+}
+ 
+section header h2{
+    color: rgba(0, 0, 0);
+}
+
+article h3{
+    color: rgb(0, 0, 206);
+    padding: 10px;
+}
+
+article#artigo1 div.imagem1 img{
+    max-width: 47.6vw;
+    max-height: 50vw;
+    margin: 0.1%;
+}
+
+
+div.imagem1{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
